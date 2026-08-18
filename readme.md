@@ -1,4 +1,4 @@
-I build small, zero-dependency tools — mostly single-file PHP scripts and a bit of C++ for microcontrollers. No build step, no framework, just something you can drop into a folder and run.
+15+ years in Linux sysadmin and web hosting/data center ops. I build small, lightweight, focused tools for web hosting and other side projects. Primarily PHP, Python, and Bash.
 
 - 📁 [classy-php-directory](https://github.com/ma-tt/classy-php-directory) - Single-file PHP directory listing script. Drop it into any folder to browse files and subfolders.
 - 🖼️ [snazzy-gallery](https://github.com/ma-tt/snazzy-gallery) - Zero-dependency, single-file PHP script that auto-discovers images and videos and displays them in a responsive masonry gallery with lightbox support.
