@@ -1,4 +1,4 @@
-15+ years in Linux system administration, web hosting, and data center ops. I build small, lightweight, focused tools for web hosting and other side projects. Primarily PHP, Python, and Bash.
+15+ years in Linux system administration, web hosting, and data center ops. I build lightweight, focused tools for web hosting and other side projects. Primarily PHP, Python, and Bash.
 
 - 📁 [classy-php-directory](https://github.com/ma-tt/classy-php-directory) - Single-file PHP directory listing script. Drop it into any folder to browse files and subfolders.
 - 🖼️ [snazzy-gallery](https://github.com/ma-tt/snazzy-gallery) - Zero-dependency, single-file PHP script that auto-discovers images and videos and displays them in a responsive masonry gallery with lightbox support.
